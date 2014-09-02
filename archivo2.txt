@@ -1,2 +1,5 @@
 segundo archivo
-cambios en la nueva rama (fixed)
+
+hacemos unos cambios para pruebas en ramas (design)
+
+nuevo cambio en la rama (design)
